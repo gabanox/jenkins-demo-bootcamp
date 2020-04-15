@@ -1,0 +1,1 @@
+echo "iniciado aplicacion"
